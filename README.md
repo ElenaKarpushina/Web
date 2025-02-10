@@ -5,3 +5,4 @@
 Обновлённый чек-лист https://docs.google.com/spreadsheets/d/17W5g5oK-Hzl1iAi0jCpa5mRENeqegoaJXFHTFhqR2OY/edit?gid=0#gid=0
 Отчёты о дефектах можно посмотреть здесь https://github.com/ElenaKarpushina/Web/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85.xlsx
 Тестовый прогон можно посмотреть здесь https://github.com/ElenaKarpushina/Web/blob/main/G9-Express%2Brun%2B2025_01_08.pdf
+Перехват и изменение трафика demoshopping.ru -  https://github.com/ElenaKarpushina/Web/commit/1ab399fea998a199dbec79e52aebb9ad49372bfb
