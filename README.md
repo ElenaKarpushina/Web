@@ -13,9 +13,9 @@
 
 4. Разработаны и подготовлены [чек-лист](https://docs.google.com/spreadsheets/d/17W5g5oK-Hzl1iAi0jCpa5mRENeqegoaJXFHTFhqR2OY/edit?gid=0#gid=0) и  [тест-план](https://docs.google.com/spreadsheets/d/1YkU7ycE4CmD7Opr1Qh8df2hCElCWwFnpej3fx031A6g/edit?gid=0#gid=0).
 
-5. На основании проверок из чек-листа были созданы [тест-кейсы](https://github.com/ElenaKarpushina/Web/blob/main/G9-2025-01-04%20(1).pdf) в [QASE](https://qase.io/).
+5. На основании проверок из чек-листа были созданы [тест-кейсы](https://github.com/ElenaKarpushina/Web/blob/main/Тест-кейсы.pdf) в [QASE](https://qase.io/).
 
-6. В [QASE](https://qase.io/) проведён [test run](https://github.com/ElenaKarpushina/Web/blob/main/G9-Express%2Brun%2B2025_01_08.pdf) и были найдены баги.
+6. В [QASE](https://qase.io/) проведён [test run](https://github.com/ElenaKarpushina/Web/blob/main/Тестовый%20прогон.pdf) и были найдены баги.
 
 7. С помощью [QASE](https://qase.io/) были созданы [отчёты о дефектах](https://github.com/ElenaKarpushina/Web/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85.xlsx) и интегрированы в [Youtrack](https://www.jetbrains.com/youtrack/).
 
